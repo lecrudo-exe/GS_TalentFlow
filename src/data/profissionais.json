@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Ribeiro",
+    "foto": "",
+    "cargo": "Estrategista de Produto",
+    "resumo": "Atua conectando squads ao impacto do negocio.",
+    "localizacao": "Sao Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Discovery", "Figma", "Notion"],
+    "softSkills": ["Comunicacao", "Visao sistemica", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "Nuvem Criativa",
+        "cargo": "PO Pleno",
+        "inicio": "2022-03",
+        "fim": "2024-10",
+        "descricao": "Liderou evolucao de plataforma de talentos"
+      }
+    ],
+    "formacao": [
+      { "curso": "MBA Gestao de Produtos", "instituicao": "FIAP", "ano": 2023 }
+    ],
+    "projetos": [
+      { "titulo": "Lab Inclusivo", "link": "https://example.com", "descricao": "Programa para mapear habilidades sociais" }
+    ],
+    "certificacoes": ["CSPO", "OKR Coach"],
+    "idiomas": [
+      { "idioma": "Ingles", "nivel": "Avancado" },
+      { "idioma": "Espanhol", "nivel": "Intermediario" }
+    ],
+    "areaInteresses": ["Trabalho remoto", "Lideranca consciente"]
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Nascimento",
+    "foto": "",
+    "cargo": "Engenheiro Front-end",
+    "resumo": "Focado em acessibilidade e design systems.",
+    "localizacao": "Campinas/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Next.js", "Tailwind"],
+    "softSkills": ["Colaboracao", "Adaptabilidade"],
+    "experiencias": [
+      {
+        "empresa": "ZapLabs",
+        "cargo": "Front-end Senior",
+        "inicio": "2021-02",
+        "fim": "",
+        "descricao": "Estruturou biblioteca compartilhada para squads"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia da Computacao", "instituicao": "Unicamp", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Sistema Aurora", "link": "https://example.com", "descricao": "Dashboard colaborativo" }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Ingles", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Comunidades dev", "Plataformas low-code"]
+  },
+  {
+    "id": 3,
+    "nome": "Camila Furtado",
+    "foto": "",
+    "cargo": "People Partner",
+    "resumo": "Gosta de criar experiencias de aprendizagem inclusivas.",
+    "localizacao": "Curitiba/PR",
+    "area": "Pessoas",
+    "habilidadesTecnicas": ["People Analytics", "Facilitacao", "Rituais"],
+    "softSkills": ["Escuta ativa", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Pulsar",
+        "cargo": "People Partner",
+        "inicio": "2020-09",
+        "fim": "",
+        "descricao": "Desenhou jornadas de onboarding remoto"
+      }
+    ],
+    "formacao": [
+      { "curso": "Psicologia", "instituicao": "UFPR", "ano": 2016 }
+    ],
+    "projetos": [
+      { "titulo": "Mapa de Proposito", "link": "https://example.com", "descricao": "Ferramenta de autoconhecimento" }
+    ],
+    "certificacoes": ["Coaching Cognitivo"],
+    "idiomas": [
+      { "idioma": "Ingles", "nivel": "Intermediario" }
+    ],
+    "areaInteresses": ["Saude mental", "Futuro do trabalho"]
+  },
+  {
+    "id": 4,
+    "nome": "Diego Martins",
+    "foto": "",
+    "cargo": "Cientista de Dados",
+    "resumo": "Ajuda empresas a usar IA de forma responsavel.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento critico", "Resolucao de problemas"],
+    "experiencias": [
+      {
+        "empresa": "Miner Datalab",
+        "cargo": "Cientista",
+        "inicio": "2019-06",
+        "fim": "",
+        "descricao": "Construiu pipelines para squads de produto"
+      }
+    ],
+    "formacao": [
+      { "curso": "Mestrado Ciencia de Dados", "instituicao": "PUC Minas", "ano": 2021 }
+    ],
+    "projetos": [
+      { "titulo": "Radar Verde", "link": "https://example.com", "descricao": "Monitoramento de indicadores ESG" }
+    ],
+    "certificacoes": ["Databricks Data Engineer"],
+    "idiomas": [
+      { "idioma": "Ingles", "nivel": "Avancado" }
+    ],
+    "areaInteresses": ["IA etica", "Educacao aberta"]
+  },
+  {
+    "id": 5,
+    "nome": "Elisa Costa",
+    "foto": "",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisa experiencias para diferentes regioes do Brasil.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Entrevistas", "Mapas de jornada", "Miro"],
+    "softSkills": ["Curiosidade", "Narrativa"],
+    "experiencias": [
+      {
+        "empresa": "Beetle",
+        "cargo": "UX Researcher",
+        "inicio": "2018-01",
+        "fim": "",
+        "descricao": "Conduziu estudos sobre servicos publicos digitais"
+      }
+    ],
+    "formacao": [
+      { "curso": "Design", "instituicao": "UFPE", "ano": 2015 }
+    ],
+    "projetos": [
+      { "titulo": "Radar Nordeste", "link": "https://example.com", "descricao": "Repositorio de achados" }
+    ],
+    "certificacoes": ["Design Sprint Master"],
+    "idiomas": [
+      { "idioma": "Ingles", "nivel": "Avancado" }
+    ],
+    "areaInteresses": ["Cidades inteligentes", "Design social"]
+  },
+  {
+    "id": 6,
+    "nome": "Felipe Prado",
+    "foto": "",
+    "cargo": "Tech Recruiter",
+    "resumo": "Gosta de aproximar talentos de desafios reais.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Talentos",
+    "habilidadesTecnicas": ["Hunting", "LinkedIn", "People Analytics"],
+    "softSkills": ["Negociacao", "Relacionamento"],
+    "experiencias": [
+      {
+        "empresa": "Growup",
+        "cargo": "Recruiter",
+        "inicio": "2017-04",
+        "fim": "",
+        "descricao": "Conectou squads com especialistas independentes"
+      }
+    ],
+    "formacao": [
+      { "curso": "Administracao", "instituicao": "PUC RS", "ano": 2014 }
+    ],
+    "projetos": [
+      { "titulo": "Talentos Abertos", "link": "https://example.com", "descricao": "Comunidade de recrutadores" }
+    ],
+    "certificacoes": ["People Analytics FIAP"],
+    "idiomas": [
+      { "idioma": "Ingles", "nivel": "Basico" }
+    ],
+    "areaInteresses": ["Economia criativa", "Trabalho distribuido"]
+  }
+]
