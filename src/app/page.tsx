@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { BarraFiltros } from "@/components/barra-filtros";
 import { CartaoProfissional } from "@/components/cartao-profissional";
 import { ModalPerfil } from "@/components/modal-perfil";
@@ -18,6 +18,14 @@ export default function Home() {
   const [filtroTecnologia, setFiltroTecnologia] = useState("todas");
   const [modoEscuro, setModoEscuro] = useState(false);
   const [perfilAtivo, setPerfilAtivo] = useState<PerfilProfissional | null>(null);
+
+  useEffect(() => {
+    const raiz = document.documentElement;
+    raiz.classList.toggle("dark", modoEscuro);
+    return () => {
+      raiz.classList.remove("dark");
+    };
+  }, [modoEscuro]);
 
   const opcoesArea = useMemo(
     () => ["todos", ...ordenarOpcoes(profissionais.map((perfil) => perfil.area))],
@@ -64,8 +72,8 @@ export default function Home() {
   };
 
   return (
-    <div className={modoEscuro ? "dark" : ""}>
-      <main className="mx-auto min-h-screen max-w-6xl px-4 py-10 text-slate-900 transition dark:bg-escuro dark:text-white sm:px-8">
+    <>
+      <main className="mx-auto min-h-screen max-w-6xl px-4 py-10 text-slate-900 transition dark:text-white sm:px-8">
         <header className="flex flex-col gap-4 rounded-3xl bg-white p-6 shadow-sm dark:bg-slate-900 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <p className="text-sm font-semibold uppercase tracking-wide text-primario">
@@ -135,6 +143,6 @@ export default function Home() {
           aoMensagem={enviarMensagem}
         />
       ) : null}
-    </div>
+    </>
   );
 }
