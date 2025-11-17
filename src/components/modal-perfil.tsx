@@ -57,6 +57,20 @@ export function ModalPerfil({
           </div>
           <div className="rounded-2xl bg-slate-50 p-4 dark:bg-slate-800/60">
             <h3 className="text-sm font-semibold text-slate-500 dark:text-slate-200">
+              Formacao e estudos
+            </h3>
+            <ul className="mt-3 space-y-2 text-sm text-slate-700 dark:text-slate-200">
+              {perfil.formacao.map((formacao) => (
+                <li key={`${formacao.curso}-${formacao.instituicao}`}>
+                  <p className="font-semibold">{formacao.curso}</p>
+                  <p>{formacao.instituicao}</p>
+                  <p className="text-xs text-slate-500">Concluido em {formacao.ano}</p>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div className="rounded-2xl bg-slate-50 p-4 dark:bg-slate-800/60">
+            <h3 className="text-sm font-semibold text-slate-500 dark:text-slate-200">
               Soft skills e interesses
             </h3>
             <div className="mt-3 flex flex-wrap gap-2">
