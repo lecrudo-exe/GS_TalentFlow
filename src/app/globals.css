@@ -3,9 +3,17 @@
 @tailwind utilities;
 
 :root {
-  font-family: var(--font-geist-sans);
+  font-family: var(--font-corpo);
 }
 
 body {
   @apply bg-fundo text-slate-900 antialiased transition-colors duration-300 dark:bg-escuro dark:text-white;
+  font-family: var(--font-corpo);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-titulos);
 }

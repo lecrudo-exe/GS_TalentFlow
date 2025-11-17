@@ -185,5 +185,440 @@
       { "idioma": "Ingles", "nivel": "Basico" }
     ],
     "areaInteresses": ["Economia criativa", "Trabalho distribuido"]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Moura",
+    "foto": "",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em insights rapidos para squads.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Metabase", "Python"],
+    "softSkills": ["Pensamento analitico", "Organizacao"],
+    "experiencias": [
+      {
+        "empresa": "Flux Analytics",
+        "cargo": "Analista Jr",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Criou paines de acompanhamento de metas"
+      }
+    ],
+    "formacao": [
+      { "curso": "Estatistica", "instituicao": "UERJ", "ano": 2019 }
+    ],
+    "projetos": [
+      { "titulo": "Radar do Futuro", "link": "https://example.com", "descricao": "Relatorio mensal aberto" }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
+    "areaInteresses": ["Dados abertos", "Educacao STEM"]
+  },
+  {
+    "id": 8,
+    "nome": "Henrique Salgado",
+    "foto": "",
+    "cargo": "Tech Lead",
+    "resumo": "Coordena squads remotos de plataformas SaaS.",
+    "localizacao": "Florianopolis/SC",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Node.js", "Next.js", "AWS"],
+    "softSkills": ["Lideranca", "Feedback"],
+    "experiencias": [
+      {
+        "empresa": "Nebula",
+        "cargo": "Tech Lead",
+        "inicio": "2018-05",
+        "fim": "",
+        "descricao": "Guia chapter front-end de 12 devs"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Software", "instituicao": "UFSC", "ano": 2014 }
+    ],
+    "projetos": [
+      { "titulo": "Stack Compartilhada", "link": "https://example.com", "descricao": "Templates para squads" }
+    ],
+    "certificacoes": ["Azure Fundamentals"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
+    "areaInteresses": ["Dev communities", "Mentoria tecnica"]
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Fontes",
+    "foto": "",
+    "cargo": "UI Designer",
+    "resumo": "Cria sistemas visuais acessiveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design tokens", "Motion"],
+    "softSkills": ["Empatia", "Comunicacao visual"],
+    "experiencias": [
+      {
+        "empresa": "Brisa Studio",
+        "cargo": "UI Designer",
+        "inicio": "2019-08",
+        "fim": "",
+        "descricao": "Lidera biblioteca multi marcas"
+      }
+    ],
+    "formacao": [
+      { "curso": "Design Grafico", "instituicao": "UNIFACS", "ano": 2017 }
+    ],
+    "projetos": [
+      { "titulo": "Kit Aurora", "link": "https://example.com", "descricao": "Design system open source" }
+    ],
+    "certificacoes": ["DesignOps", "Acessibilidade Web"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
+    "areaInteresses": ["Arte digital", "Comunidades criativas"]
+  },
+  {
+    "id": 10,
+    "nome": "Joao Victor Neri",
+    "foto": "",
+    "cargo": "Agile Coach",
+    "resumo": "Facilita transformacoes culturais com foco em valor.",
+    "localizacao": "Brasilia/DF",
+    "area": "Pessoas",
+    "habilidadesTecnicas": ["Kanban", "OKR", "Workshops"],
+    "softSkills": ["Facilitacao", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Fly Agile",
+        "cargo": "Agile Coach",
+        "inicio": "2016-03",
+        "fim": "",
+        "descricao": "Mentorou liderancas em ciclos curtos"
+      }
+    ],
+    "formacao": [
+      { "curso": "Administracao", "instituicao": "UnB", "ano": 2013 }
+    ],
+    "projetos": [
+      { "titulo": "Trilha Lumin", "link": "https://example.com", "descricao": "Programa de formacao agile" }
+    ],
+    "certificacoes": ["ICP-ACC", "KMP"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Avancado" }],
+    "areaInteresses": ["Futuro das organizacoes", "Gamificacao"]
+  },
+  {
+    "id": 11,
+    "nome": "Karina Lopes",
+    "foto": "",
+    "cargo": "Cientista de Pessoas",
+    "resumo": "Combina dados de RH com pesquisa qualitativa.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Talentos",
+    "habilidadesTecnicas": ["People Analytics", "Pesquisa", "Power BI"],
+    "softSkills": ["Escuta ativa", "Storytelling"],
+    "experiencias": [
+      {
+        "empresa": "Human.Co",
+        "cargo": "Analista Sr",
+        "inicio": "2021-01",
+        "fim": "",
+        "descricao": "Montou dashboards sobre engajamento"
+      }
+    ],
+    "formacao": [
+      { "curso": "Psicologia", "instituicao": "UNIFOR", "ano": 2015 }
+    ],
+    "projetos": [
+      { "titulo": "Mapa de Clima", "link": "https://example.com", "descricao": "Painel em tempo real" }
+    ],
+    "certificacoes": ["People Analytics Alura"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Basico" }],
+    "areaInteresses": ["Inclusao", "Bem-estar"]
+  },
+  {
+    "id": 12,
+    "nome": "Leonardo Cabral",
+    "foto": "",
+    "cargo": "Product Marketing",
+    "resumo": "Construtor de narrativas para lançamentos B2B.",
+    "localizacao": "Sao Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Go To Market", "Hubspot", "Pesquisa"],
+    "softSkills": ["Comunicacao", "Escrita"],
+    "experiencias": [
+      {
+        "empresa": "Signal",
+        "cargo": "PMM",
+        "inicio": "2020-02",
+        "fim": "",
+        "descricao": "Orquestrou lancamentos com squads"
+      }
+    ],
+    "formacao": [
+      { "curso": "Publicidade", "instituicao": "ESPM", "ano": 2016 }
+    ],
+    "projetos": [
+      { "titulo": "Playbook Nexus", "link": "https://example.com", "descricao": "Guia colaborativo de GTM" }
+    ],
+    "certificacoes": ["PMI Agile Certified Practitioner"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
+    "areaInteresses": ["Comunidades B2B", "Eventos hibridos"]
+  },
+  {
+    "id": 13,
+    "nome": "Mariana Leites",
+    "foto": "",
+    "cargo": "Engenheira DevOps",
+    "resumo": "Foca em plataformas seguras e automacoes simples.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Terraform", "Docker", "Kubernetes"],
+    "softSkills": ["Proatividade", "Resolucao de problemas"],
+    "experiencias": [
+      {
+        "empresa": "Pipeline One",
+        "cargo": "DevOps",
+        "inicio": "2019-04",
+        "fim": "",
+        "descricao": "Montou pipeline de CI compartilhado"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia Eletrica", "instituicao": "UFRGS", "ano": 2015 }
+    ],
+    "projetos": [
+      { "titulo": "Cluster Verde", "link": "https://example.com", "descricao": "Infra de testes com energia otimizada" }
+    ],
+    "certificacoes": ["CKA"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Avancado" }],
+    "areaInteresses": ["SRE", "Energia limpa"]
+  },
+  {
+    "id": 14,
+    "nome": "Nicolas Prado",
+    "foto": "",
+    "cargo": "Cientista Social Tech",
+    "resumo": "Investiga impacto da tecnologia nas cidades.",
+    "localizacao": "Belem/PA",
+    "area": "Pesquisa",
+    "habilidadesTecnicas": ["Entrevistas", "Analise de redes", "Reports"],
+    "softSkills": ["Curiosidade", "Narrativa"],
+    "experiencias": [
+      {
+        "empresa": "Civitas Lab",
+        "cargo": "Pesquisador",
+        "inicio": "2017-11",
+        "fim": "",
+        "descricao": "Coordena observatorio de trabalho digital"
+      }
+    ],
+    "formacao": [
+      { "curso": "Ciencias Sociais", "instituicao": "UFPA", "ano": 2016 }
+    ],
+    "projetos": [
+      { "titulo": "Mapa Amazonia Digital", "link": "https://example.com", "descricao": "Base publica de iniciativas" }
+    ],
+    "certificacoes": ["Metodologias Participativas"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
+    "areaInteresses": ["Políticas publicas", "Futuro do trabalho"]
+  },
+  {
+    "id": 15,
+    "nome": "Olivia Torres",
+    "foto": "",
+    "cargo": "Community Manager",
+    "resumo": "Move comunidades de talentos tech.",
+    "localizacao": "Joao Pessoa/PB",
+    "area": "Talentos",
+    "habilidadesTecnicas": ["Comunicacao", "Ferramentas SaaS", "Eventos"],
+    "softSkills": ["Colaboracao", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "SquadHub",
+        "cargo": "Community",
+        "inicio": "2018-06",
+        "fim": "",
+        "descricao": "Criou programa de mentores voluntarios"
+      }
+    ],
+    "formacao": [
+      { "curso": "Jornalismo", "instituicao": "UFPB", "ano": 2014 }
+    ],
+    "projetos": [
+      { "titulo": "Festival Jampa Tech", "link": "https://example.com", "descricao": "Evento anual de conexao" }
+    ],
+    "certificacoes": ["Community Experience"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
+    "areaInteresses": ["Voluntariado", "Educacao aberta"]
+  },
+  {
+    "id": 16,
+    "nome": "Paulo Andrade",
+    "foto": "",
+    "cargo": "Especialista ESG",
+    "resumo": "Integra impacto socioambiental em produtos.",
+    "localizacao": "Sorocaba/SP",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": ["Indicadores ESG", "Relatorios", "Workshops"],
+    "softSkills": ["Visao sistemica", "Negociacao"],
+    "experiencias": [
+      {
+        "empresa": "EcoPrime",
+        "cargo": "Especialista",
+        "inicio": "2015-02",
+        "fim": "",
+        "descricao": "Implementou trilhas de sustentabilidade"
+      }
+    ],
+    "formacao": [
+      { "curso": "Gestao Ambiental", "instituicao": "SENAC", "ano": 2012 }
+    ],
+    "projetos": [
+      { "titulo": "Radar Verde 2.0", "link": "https://example.com", "descricao": "Metodologia aberta de indicadores" }
+    ],
+    "certificacoes": ["GRI"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Basico" }],
+    "areaInteresses": ["Clima", "Economia circular"]
+  },
+  {
+    "id": 17,
+    "nome": "Queila Santana",
+    "foto": "",
+    "cargo": "Full Stack Developer",
+    "resumo": "Desenvolve produtos colaborativos multiplataforma.",
+    "localizacao": "Natal/RN",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "MongoDB"],
+    "softSkills": ["Autonomia", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Ocean Labs",
+        "cargo": "Full Stack",
+        "inicio": "2019-10",
+        "fim": "",
+        "descricao": "Criou APIs para marketplace social"
+      }
+    ],
+    "formacao": [
+      { "curso": "Sistemas de Informacao", "instituicao": "UFRN", "ano": 2018 }
+    ],
+    "projetos": [
+      { "titulo": "Conecta RN", "link": "https://example.com", "descricao": "Rede local de talentos" }
+    ],
+    "certificacoes": ["Scrum Foundations"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
+    "areaInteresses": ["Impacto social", "Apps low-bandwidth"]
+  },
+  {
+    "id": 18,
+    "nome": "Rafaela Dias",
+    "foto": "",
+    "cargo": "Story Producer",
+    "resumo": "Transforma historias de carreira em conteudos humanos.",
+    "localizacao": "Curitiba/PR",
+    "area": "Conteudo",
+    "habilidadesTecnicas": ["Video", "Roteiro", "Podcast"],
+    "softSkills": ["Narrativa", "Escuta ativa"],
+    "experiencias": [
+      {
+        "empresa": "Estudio Nave",
+        "cargo": "Produtora",
+        "inicio": "2016-04",
+        "fim": "",
+        "descricao": "Documenta projetos de inovacao em trabalho"
+      }
+    ],
+    "formacao": [
+      { "curso": "Cinema", "instituicao": "PUCPR", "ano": 2014 }
+    ],
+    "projetos": [
+      { "titulo": "Podcast Futuro", "link": "https://example.com", "descricao": "Serie sobre profissões emergentes" }
+    ],
+    "certificacoes": ["Storytelling for Business"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Avancado" }],
+    "areaInteresses": ["Docuseries", "Educacao midiistica"]
+  },
+  {
+    "id": 19,
+    "nome": "Samuel Rocha",
+    "foto": "",
+    "cargo": "Security Engineer",
+    "resumo": "Cuida de plataformas seguras com foco em dev experience.",
+    "localizacao": "Campinas/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["OWASP", "Azure", "Python"],
+    "softSkills": ["Detalhismo", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "ShieldX",
+        "cargo": "Security Eng",
+        "inicio": "2018-09",
+        "fim": "",
+        "descricao": "Implementa guardrails em pipelines"
+      }
+    ],
+    "formacao": [
+      { "curso": "Ciencia da Computacao", "instituicao": "PUC Campinas", "ano": 2015 }
+    ],
+    "projetos": [
+      { "titulo": "Guia Zero Trust", "link": "https://example.com", "descricao": "Serie de artigos abertos" }
+    ],
+    "certificacoes": ["Security+", "AZ-500"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
+    "areaInteresses": ["Comunidades blue team", "Bug bounty"]
+  },
+  {
+    "id": 20,
+    "nome": "Tatiane Barros",
+    "foto": "",
+    "cargo": "Learning Designer",
+    "resumo": "Desenha trilhas para desenvolvimento rapido.",
+    "localizacao": "Goiania/GO",
+    "area": "Educacao",
+    "habilidadesTecnicas": ["Instructional Design", "LMS", "Notion"],
+    "softSkills": ["Criatividade", "Organizacao"],
+    "experiencias": [
+      {
+        "empresa": "Campus Livre",
+        "cargo": "Learning Designer",
+        "inicio": "2020-07",
+        "fim": "",
+        "descricao": "Entrega jornadas digitais para talentos"
+      }
+    ],
+    "formacao": [
+      { "curso": "Pedagogia", "instituicao": "UFG", "ano": 2016 }
+    ],
+    "projetos": [
+      { "titulo": "Academia Fluxo", "link": "https://example.com", "descricao": "Trilha de requalificacao" }
+    ],
+    "certificacoes": ["Learning Experience Designer"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Basico" }],
+    "areaInteresses": ["Microlearning", "Carreira em T"]
+  },
+  {
+    "id": 21,
+    "nome": "Ulysses Pacheco",
+    "foto": "",
+    "cargo": "Data Product Manager",
+    "resumo": "Conecta times tecnicos e negocio em produtos de dados.",
+    "localizacao": "Santos/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Roadmaps", "SQL", "Analytics"],
+    "softSkills": ["Visao estrategica", "Colaboracao"],
+    "experiencias": [
+      {
+        "empresa": "Delta Insights",
+        "cargo": "PM",
+        "inicio": "2017-01",
+        "fim": "",
+        "descricao": "Coordenou criacao de plataforma self service"
+      }
+    ],
+    "formacao": [
+      { "curso": "Engenharia de Producao", "instituicao": "Mackenzie", "ano": 2013 }
+    ],
+    "projetos": [
+      { "titulo": "Atlas Talents", "link": "https://example.com", "descricao": "Camada unica de dados sobre talentos" }
+    ],
+    "certificacoes": ["Lean Analytics"],
+    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
+    "areaInteresses": ["IA aplicada", "Dados abertos"]
   }
 ]

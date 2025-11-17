@@ -9,6 +9,10 @@ module.exports = {
         primario: "#6d28d9",
         escuro: "#0f172a",
       },
+      fontFamily: {
+        corpo: "var(--font-corpo)",
+        titulos: "var(--font-titulos)",
+      },
     },
   },
   plugins: [],
