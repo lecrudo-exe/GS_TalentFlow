@@ -1,43 +1,35 @@
 # TalentFlow - Global Solution 2025
 
-Primeiro recorte da plataforma que conecta profissionais, competencias e proposito. O foco deste commit e levantar o esqueleto visual e funcional que sera evoluido nas proximas entregas das disciplinas Front-End Design & Web Development.
+Protótipo inicial da rede colaborativa que conecta profissionais, competências e propósito para a Global Solution 2º semestre/2025.
 
-## Stack inicial
+## Tecnologias
 - Next.js 16 (App Router)
 - React 19 com componentes client-side
-- Tailwind CSS 3.4 com modo escuro por classe
-- Tipagem em TypeScript + JSON local para simular perfis
+- Tailwind CSS 3.4 com dark mode controlado via classe
+- TypeScript + JSON local para simulação de perfis
 
-## Como rodar
-1. Clonar este repositorio.
-2. Instalar dependencias: `npm install`.
-3. Rodar em desenvolvimento: `npm run dev` e acessar `http://localhost:3000`.
-4. Build de producao: `npm run build` e, em seguida, `npm start`.
+## Execução
+1. Clone o repositório.
+2. Instale as dependências: `npm install`.
+3. Ambiente de desenvolvimento: `npm run dev` e acesse `http://localhost:3000`.
+4. Build de produção: `npm run build` seguido de `npm start`.
 
-> Usuarios e senhas: nao se aplicam neste estagio.
+> Não há autenticação ou credenciais neste estágio.
 
-## Estrutura entregue
-- Listagem inicial de profissionais ficticios usando `src/data/profissionais.json` (6 itens para validar fluxo, sera expandido para 60+).
-- Cards basicos com nome, cargo, localizacao, area e skills principais.
-- Barra de busca + filtros por area, cidade e tecnologia ja funcionais.
-- Modal simples com resumo, experiencias, soft skills e botoes "Recomendar profissional" e "Enviar mensagem" disparando acoes (alertas).
-- Toggle manual de dark mode para validar diretrizes de acessibilidade.
-
-## Proximos passos sugeridos
-1. Completar o JSON com no minimo 60 perfis e ajustar imagens reais quando disponiveis.
-2. Aprimorar o modal com formacao, projetos e links clicaveis.
-3. Conectar acoes de recomendacao/mensagem com servicos reais ou mocks mais robustos.
-4. Implementar paginacao/infinite scroll e area autenticada (caso necessario).
+## O que já está pronto
+- Listagem com 60 perfis fictícios armazenados em `src/data/profissionais.json`.
+- Cards responsivos com nome, foto (Pravatar), cargo, área, localização e habilidades principais.
+- Busca textual e filtros por área, cidade e tecnologia.
+- Modal com informações completas (experiências, formação, projetos, soft skills, interesses, certificações e idiomas).
+- Botões “Recomendar profissional” e “Enviar mensagem” operacionais (alertas simulados).
+- Dark mode manual com persistência enquanto a página está aberta.
 
 ## Links
-- Deploy: _(pendente)_
-- Repositorio: _(preencher com URL publica quando subir)_
-
+- Repositório público: [_((https://gstalentflow.vercel.app/))_]
+- Link Git Hub [_((https://github.com/lecrudo-exe/GS_TalentFlow.git))_]
 ## Integrantes
 | Nome | RM |
-| --- | --- |
+| ---  | -- |
 | Integrante 1 | RM563191 |
 | Integrante 2 | RM564226 |
 | Integrante 3 | RM563290 |
-
-Atualize a tabela acima com os dados oficiais antes da entrega no portal FIAP/Teams.
