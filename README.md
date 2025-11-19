@@ -1,6 +1,6 @@
 # TalentFlow - Global Solution 2025
 
-Protótipo inicial da rede colaborativa que conecta profissionais, competências e propósito para a Global Solution 2º semestre/2025.
+Rede colaborativa que conecta profissionais, competências e propósito para a Global Solution 2º semestre/2025.
 
 ## Tecnologias
 - Next.js 16 (App Router)

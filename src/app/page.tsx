@@ -80,7 +80,7 @@ export default function Home() {
               Global Solution 2025
             </p>
             <h1 className="text-3xl font-bold text-slate-900 dark:text-white">
-              TalentFlow em construcao
+              TalentFlow
             </h1>
             <p className="text-sm text-slate-600 dark:text-slate-300">
               Comecamos com alguns perfis ficticios para validar filtros, modal e interacoes.
