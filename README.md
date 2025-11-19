@@ -36,8 +36,8 @@ Primeiro recorte da plataforma que conecta profissionais, competencias e proposi
 ## Integrantes
 | Nome | RM |
 | --- | --- |
-| Integrante 1 | RM000000 |
-| Integrante 2 | RM000000 |
-| Integrante 3 | RM000000 |
+| Integrante 1 | RM563191 |
+| Integrante 2 | RM564226 |
+| Integrante 3 | RM563290 |
 
 Atualize a tabela acima com os dados oficiais antes da entrega no portal FIAP/Teams.
