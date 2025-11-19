@@ -2,13 +2,21 @@
   {
     "id": 1,
     "nome": "Ana Ribeiro",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=6",
     "cargo": "Estrategista de Produto",
     "resumo": "Atua conectando squads ao impacto do negocio.",
     "localizacao": "Sao Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Discovery", "Figma", "Notion"],
-    "softSkills": ["Comunicacao", "Visao sistemica", "Mentoria"],
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Notion"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica",
+      "Mentoria"
+    ],
     "experiencias": [
       {
         "empresa": "Nuvem Criativa",
@@ -19,28 +27,55 @@
       }
     ],
     "formacao": [
-      { "curso": "MBA Gestao de Produtos", "instituicao": "FIAP", "ano": 2023 }
+      {
+        "curso": "MBA Gestao de Produtos",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
     ],
     "projetos": [
-      { "titulo": "Lab Inclusivo", "link": "https://example.com", "descricao": "Programa para mapear habilidades sociais" }
+      {
+        "titulo": "Lab Inclusivo",
+        "link": "https://example.com",
+        "descricao": "Programa para mapear habilidades sociais"
+      }
     ],
-    "certificacoes": ["CSPO", "OKR Coach"],
+    "certificacoes": [
+      "CSPO",
+      "OKR Coach"
+    ],
     "idiomas": [
-      { "idioma": "Ingles", "nivel": "Avancado" },
-      { "idioma": "Espanhol", "nivel": "Intermediario" }
+      {
+        "idioma": "Ingles",
+        "nivel": "Avancado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
     ],
-    "areaInteresses": ["Trabalho remoto", "Lideranca consciente"]
+    "areaInteresses": [
+      "Trabalho remoto",
+      "Lideranca consciente"
+    ]
   },
   {
     "id": 2,
     "nome": "Bruno Nascimento",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=7",
     "cargo": "Engenheiro Front-end",
     "resumo": "Focado em acessibilidade e design systems.",
     "localizacao": "Campinas/SP",
     "area": "Tecnologia",
-    "habilidadesTecnicas": ["React", "Next.js", "Tailwind"],
-    "softSkills": ["Colaboracao", "Adaptabilidade"],
+    "habilidadesTecnicas": [
+      "React",
+      "Next.js",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Adaptabilidade"
+    ],
     "experiencias": [
       {
         "empresa": "ZapLabs",
@@ -51,27 +86,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia da Computacao", "instituicao": "Unicamp", "ano": 2018 }
+      {
+        "curso": "Engenharia da Computacao",
+        "instituicao": "Unicamp",
+        "ano": 2018
+      }
     ],
     "projetos": [
-      { "titulo": "Sistema Aurora", "link": "https://example.com", "descricao": "Dashboard colaborativo" }
+      {
+        "titulo": "Sistema Aurora",
+        "link": "https://example.com",
+        "descricao": "Dashboard colaborativo"
+      }
     ],
-    "certificacoes": ["AWS Cloud Practitioner"],
+    "certificacoes": [
+      "AWS Cloud Practitioner"
+    ],
     "idiomas": [
-      { "idioma": "Ingles", "nivel": "Fluente" }
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      }
     ],
-    "areaInteresses": ["Comunidades dev", "Plataformas low-code"]
+    "areaInteresses": [
+      "Comunidades dev",
+      "Plataformas low-code"
+    ]
   },
   {
     "id": 3,
     "nome": "Camila Furtado",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=8",
     "cargo": "People Partner",
     "resumo": "Gosta de criar experiencias de aprendizagem inclusivas.",
     "localizacao": "Curitiba/PR",
     "area": "Pessoas",
-    "habilidadesTecnicas": ["People Analytics", "Facilitacao", "Rituais"],
-    "softSkills": ["Escuta ativa", "Empatia"],
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Rituais"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
     "experiencias": [
       {
         "empresa": "Pulsar",
@@ -82,27 +140,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Psicologia", "instituicao": "UFPR", "ano": 2016 }
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFPR",
+        "ano": 2016
+      }
     ],
     "projetos": [
-      { "titulo": "Mapa de Proposito", "link": "https://example.com", "descricao": "Ferramenta de autoconhecimento" }
+      {
+        "titulo": "Mapa de Proposito",
+        "link": "https://example.com",
+        "descricao": "Ferramenta de autoconhecimento"
+      }
     ],
-    "certificacoes": ["Coaching Cognitivo"],
+    "certificacoes": [
+      "Coaching Cognitivo"
+    ],
     "idiomas": [
-      { "idioma": "Ingles", "nivel": "Intermediario" }
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      }
     ],
-    "areaInteresses": ["Saude mental", "Futuro do trabalho"]
+    "areaInteresses": [
+      "Saude mental",
+      "Futuro do trabalho"
+    ]
   },
   {
     "id": 4,
     "nome": "Diego Martins",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=9",
     "cargo": "Cientista de Dados",
     "resumo": "Ajuda empresas a usar IA de forma responsavel.",
     "localizacao": "Belo Horizonte/MG",
     "area": "Dados",
-    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
-    "softSkills": ["Pensamento critico", "Resolucao de problemas"],
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Resolucao de problemas"
+    ],
     "experiencias": [
       {
         "empresa": "Miner Datalab",
@@ -113,27 +194,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Mestrado Ciencia de Dados", "instituicao": "PUC Minas", "ano": 2021 }
+      {
+        "curso": "Mestrado Ciencia de Dados",
+        "instituicao": "PUC Minas",
+        "ano": 2021
+      }
     ],
     "projetos": [
-      { "titulo": "Radar Verde", "link": "https://example.com", "descricao": "Monitoramento de indicadores ESG" }
+      {
+        "titulo": "Radar Verde",
+        "link": "https://example.com",
+        "descricao": "Monitoramento de indicadores ESG"
+      }
     ],
-    "certificacoes": ["Databricks Data Engineer"],
+    "certificacoes": [
+      "Databricks Data Engineer"
+    ],
     "idiomas": [
-      { "idioma": "Ingles", "nivel": "Avancado" }
+      {
+        "idioma": "Ingles",
+        "nivel": "Avancado"
+      }
     ],
-    "areaInteresses": ["IA etica", "Educacao aberta"]
+    "areaInteresses": [
+      "IA etica",
+      "Educacao aberta"
+    ]
   },
   {
     "id": 5,
     "nome": "Elisa Costa",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=10",
     "cargo": "UX Researcher",
     "resumo": "Pesquisa experiencias para diferentes regioes do Brasil.",
     "localizacao": "Recife/PE",
     "area": "Design",
-    "habilidadesTecnicas": ["Entrevistas", "Mapas de jornada", "Miro"],
-    "softSkills": ["Curiosidade", "Narrativa"],
+    "habilidadesTecnicas": [
+      "Entrevistas",
+      "Mapas de jornada",
+      "Miro"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Narrativa"
+    ],
     "experiencias": [
       {
         "empresa": "Beetle",
@@ -144,27 +248,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Design", "instituicao": "UFPE", "ano": 2015 }
+      {
+        "curso": "Design",
+        "instituicao": "UFPE",
+        "ano": 2015
+      }
     ],
     "projetos": [
-      { "titulo": "Radar Nordeste", "link": "https://example.com", "descricao": "Repositorio de achados" }
+      {
+        "titulo": "Radar Nordeste",
+        "link": "https://example.com",
+        "descricao": "Repositorio de achados"
+      }
     ],
-    "certificacoes": ["Design Sprint Master"],
+    "certificacoes": [
+      "Design Sprint Master"
+    ],
     "idiomas": [
-      { "idioma": "Ingles", "nivel": "Avancado" }
+      {
+        "idioma": "Ingles",
+        "nivel": "Avancado"
+      }
     ],
-    "areaInteresses": ["Cidades inteligentes", "Design social"]
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Design social"
+    ]
   },
   {
     "id": 6,
     "nome": "Felipe Prado",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=11",
     "cargo": "Tech Recruiter",
     "resumo": "Gosta de aproximar talentos de desafios reais.",
     "localizacao": "Porto Alegre/RS",
     "area": "Talentos",
-    "habilidadesTecnicas": ["Hunting", "LinkedIn", "People Analytics"],
-    "softSkills": ["Negociacao", "Relacionamento"],
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "People Analytics"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
     "experiencias": [
       {
         "empresa": "Growup",
@@ -175,27 +302,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Administracao", "instituicao": "PUC RS", "ano": 2014 }
+      {
+        "curso": "Administracao",
+        "instituicao": "PUC RS",
+        "ano": 2014
+      }
     ],
     "projetos": [
-      { "titulo": "Talentos Abertos", "link": "https://example.com", "descricao": "Comunidade de recrutadores" }
+      {
+        "titulo": "Talentos Abertos",
+        "link": "https://example.com",
+        "descricao": "Comunidade de recrutadores"
+      }
     ],
-    "certificacoes": ["People Analytics FIAP"],
+    "certificacoes": [
+      "People Analytics FIAP"
+    ],
     "idiomas": [
-      { "idioma": "Ingles", "nivel": "Basico" }
+      {
+        "idioma": "Ingles",
+        "nivel": "Basico"
+      }
     ],
-    "areaInteresses": ["Economia criativa", "Trabalho distribuido"]
+    "areaInteresses": [
+      "Economia criativa",
+      "Trabalho distribuido"
+    ]
   },
   {
     "id": 7,
     "nome": "Gabriela Moura",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=12",
     "cargo": "Analista de Dados",
     "resumo": "Traduz dados em insights rapidos para squads.",
     "localizacao": "Rio de Janeiro/RJ",
     "area": "Dados",
-    "habilidadesTecnicas": ["SQL", "Metabase", "Python"],
-    "softSkills": ["Pensamento analitico", "Organizacao"],
+    "habilidadesTecnicas": [
+      "SQL",
+      "Metabase",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento analitico",
+      "Organizacao"
+    ],
     "experiencias": [
       {
         "empresa": "Flux Analytics",
@@ -206,25 +356,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Estatistica", "instituicao": "UERJ", "ano": 2019 }
+      {
+        "curso": "Estatistica",
+        "instituicao": "UERJ",
+        "ano": 2019
+      }
     ],
     "projetos": [
-      { "titulo": "Radar do Futuro", "link": "https://example.com", "descricao": "Relatorio mensal aberto" }
+      {
+        "titulo": "Radar do Futuro",
+        "link": "https://example.com",
+        "descricao": "Relatorio mensal aberto"
+      }
     ],
-    "certificacoes": ["Google Data Analytics"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
-    "areaInteresses": ["Dados abertos", "Educacao STEM"]
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "Educacao STEM"
+    ]
   },
   {
     "id": 8,
     "nome": "Henrique Salgado",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=13",
     "cargo": "Tech Lead",
     "resumo": "Coordena squads remotos de plataformas SaaS.",
     "localizacao": "Florianopolis/SC",
     "area": "Tecnologia",
-    "habilidadesTecnicas": ["Node.js", "Next.js", "AWS"],
-    "softSkills": ["Lideranca", "Feedback"],
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Next.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Lideranca",
+      "Feedback"
+    ],
     "experiencias": [
       {
         "empresa": "Nebula",
@@ -235,25 +410,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Software", "instituicao": "UFSC", "ano": 2014 }
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFSC",
+        "ano": 2014
+      }
     ],
     "projetos": [
-      { "titulo": "Stack Compartilhada", "link": "https://example.com", "descricao": "Templates para squads" }
+      {
+        "titulo": "Stack Compartilhada",
+        "link": "https://example.com",
+        "descricao": "Templates para squads"
+      }
     ],
-    "certificacoes": ["Azure Fundamentals"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
-    "areaInteresses": ["Dev communities", "Mentoria tecnica"]
+    "certificacoes": [
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Mentoria tecnica"
+    ]
   },
   {
     "id": 9,
     "nome": "Isabela Fontes",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=14",
     "cargo": "UI Designer",
     "resumo": "Cria sistemas visuais acessiveis.",
     "localizacao": "Salvador/BA",
     "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Design tokens", "Motion"],
-    "softSkills": ["Empatia", "Comunicacao visual"],
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design tokens",
+      "Motion"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicacao visual"
+    ],
     "experiencias": [
       {
         "empresa": "Brisa Studio",
@@ -264,25 +464,51 @@
       }
     ],
     "formacao": [
-      { "curso": "Design Grafico", "instituicao": "UNIFACS", "ano": 2017 }
+      {
+        "curso": "Design Grafico",
+        "instituicao": "UNIFACS",
+        "ano": 2017
+      }
     ],
     "projetos": [
-      { "titulo": "Kit Aurora", "link": "https://example.com", "descricao": "Design system open source" }
+      {
+        "titulo": "Kit Aurora",
+        "link": "https://example.com",
+        "descricao": "Design system open source"
+      }
     ],
-    "certificacoes": ["DesignOps", "Acessibilidade Web"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
-    "areaInteresses": ["Arte digital", "Comunidades criativas"]
+    "certificacoes": [
+      "DesignOps",
+      "Acessibilidade Web"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Arte digital",
+      "Comunidades criativas"
+    ]
   },
   {
     "id": 10,
     "nome": "Joao Victor Neri",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=15",
     "cargo": "Agile Coach",
     "resumo": "Facilita transformacoes culturais com foco em valor.",
     "localizacao": "Brasilia/DF",
     "area": "Pessoas",
-    "habilidadesTecnicas": ["Kanban", "OKR", "Workshops"],
-    "softSkills": ["Facilitacao", "Empatia"],
+    "habilidadesTecnicas": [
+      "Kanban",
+      "OKR",
+      "Workshops"
+    ],
+    "softSkills": [
+      "Facilitacao",
+      "Empatia"
+    ],
     "experiencias": [
       {
         "empresa": "Fly Agile",
@@ -293,25 +519,51 @@
       }
     ],
     "formacao": [
-      { "curso": "Administracao", "instituicao": "UnB", "ano": 2013 }
+      {
+        "curso": "Administracao",
+        "instituicao": "UnB",
+        "ano": 2013
+      }
     ],
     "projetos": [
-      { "titulo": "Trilha Lumin", "link": "https://example.com", "descricao": "Programa de formacao agile" }
+      {
+        "titulo": "Trilha Lumin",
+        "link": "https://example.com",
+        "descricao": "Programa de formacao agile"
+      }
     ],
-    "certificacoes": ["ICP-ACC", "KMP"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Avancado" }],
-    "areaInteresses": ["Futuro das organizacoes", "Gamificacao"]
+    "certificacoes": [
+      "ICP-ACC",
+      "KMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Avancado"
+      }
+    ],
+    "areaInteresses": [
+      "Futuro das organizacoes",
+      "Gamificacao"
+    ]
   },
   {
     "id": 11,
     "nome": "Karina Lopes",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=16",
     "cargo": "Cientista de Pessoas",
     "resumo": "Combina dados de RH com pesquisa qualitativa.",
     "localizacao": "Fortaleza/CE",
     "area": "Talentos",
-    "habilidadesTecnicas": ["People Analytics", "Pesquisa", "Power BI"],
-    "softSkills": ["Escuta ativa", "Storytelling"],
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Pesquisa",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Storytelling"
+    ],
     "experiencias": [
       {
         "empresa": "Human.Co",
@@ -322,25 +574,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Psicologia", "instituicao": "UNIFOR", "ano": 2015 }
+      {
+        "curso": "Psicologia",
+        "instituicao": "UNIFOR",
+        "ano": 2015
+      }
     ],
     "projetos": [
-      { "titulo": "Mapa de Clima", "link": "https://example.com", "descricao": "Painel em tempo real" }
+      {
+        "titulo": "Mapa de Clima",
+        "link": "https://example.com",
+        "descricao": "Painel em tempo real"
+      }
     ],
-    "certificacoes": ["People Analytics Alura"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Basico" }],
-    "areaInteresses": ["Inclusao", "Bem-estar"]
+    "certificacoes": [
+      "People Analytics Alura"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Basico"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusao",
+      "Bem-estar"
+    ]
   },
   {
     "id": 12,
     "nome": "Leonardo Cabral",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=17",
     "cargo": "Product Marketing",
     "resumo": "Construtor de narrativas para lançamentos B2B.",
     "localizacao": "Sao Paulo/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Go To Market", "Hubspot", "Pesquisa"],
-    "softSkills": ["Comunicacao", "Escrita"],
+    "habilidadesTecnicas": [
+      "Go To Market",
+      "Hubspot",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Escrita"
+    ],
     "experiencias": [
       {
         "empresa": "Signal",
@@ -351,25 +628,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Publicidade", "instituicao": "ESPM", "ano": 2016 }
+      {
+        "curso": "Publicidade",
+        "instituicao": "ESPM",
+        "ano": 2016
+      }
     ],
     "projetos": [
-      { "titulo": "Playbook Nexus", "link": "https://example.com", "descricao": "Guia colaborativo de GTM" }
+      {
+        "titulo": "Playbook Nexus",
+        "link": "https://example.com",
+        "descricao": "Guia colaborativo de GTM"
+      }
     ],
-    "certificacoes": ["PMI Agile Certified Practitioner"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
-    "areaInteresses": ["Comunidades B2B", "Eventos hibridos"]
+    "certificacoes": [
+      "PMI Agile Certified Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Comunidades B2B",
+      "Eventos hibridos"
+    ]
   },
   {
     "id": 13,
     "nome": "Mariana Leites",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=18",
     "cargo": "Engenheira DevOps",
     "resumo": "Foca em plataformas seguras e automacoes simples.",
     "localizacao": "Porto Alegre/RS",
     "area": "Tecnologia",
-    "habilidadesTecnicas": ["Terraform", "Docker", "Kubernetes"],
-    "softSkills": ["Proatividade", "Resolucao de problemas"],
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resolucao de problemas"
+    ],
     "experiencias": [
       {
         "empresa": "Pipeline One",
@@ -380,25 +682,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia Eletrica", "instituicao": "UFRGS", "ano": 2015 }
+      {
+        "curso": "Engenharia Eletrica",
+        "instituicao": "UFRGS",
+        "ano": 2015
+      }
     ],
     "projetos": [
-      { "titulo": "Cluster Verde", "link": "https://example.com", "descricao": "Infra de testes com energia otimizada" }
+      {
+        "titulo": "Cluster Verde",
+        "link": "https://example.com",
+        "descricao": "Infra de testes com energia otimizada"
+      }
     ],
-    "certificacoes": ["CKA"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Avancado" }],
-    "areaInteresses": ["SRE", "Energia limpa"]
+    "certificacoes": [
+      "CKA"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Avancado"
+      }
+    ],
+    "areaInteresses": [
+      "SRE",
+      "Energia limpa"
+    ]
   },
   {
     "id": 14,
     "nome": "Nicolas Prado",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=19",
     "cargo": "Cientista Social Tech",
     "resumo": "Investiga impacto da tecnologia nas cidades.",
     "localizacao": "Belem/PA",
     "area": "Pesquisa",
-    "habilidadesTecnicas": ["Entrevistas", "Analise de redes", "Reports"],
-    "softSkills": ["Curiosidade", "Narrativa"],
+    "habilidadesTecnicas": [
+      "Entrevistas",
+      "Analise de redes",
+      "Reports"
+    ],
+    "softSkills": [
+      "Curiosidade",
+      "Narrativa"
+    ],
     "experiencias": [
       {
         "empresa": "Civitas Lab",
@@ -409,25 +736,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Ciencias Sociais", "instituicao": "UFPA", "ano": 2016 }
+      {
+        "curso": "Ciencias Sociais",
+        "instituicao": "UFPA",
+        "ano": 2016
+      }
     ],
     "projetos": [
-      { "titulo": "Mapa Amazonia Digital", "link": "https://example.com", "descricao": "Base publica de iniciativas" }
+      {
+        "titulo": "Mapa Amazonia Digital",
+        "link": "https://example.com",
+        "descricao": "Base publica de iniciativas"
+      }
     ],
-    "certificacoes": ["Metodologias Participativas"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
-    "areaInteresses": ["Políticas publicas", "Futuro do trabalho"]
+    "certificacoes": [
+      "Metodologias Participativas"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Políticas publicas",
+      "Futuro do trabalho"
+    ]
   },
   {
     "id": 15,
     "nome": "Olivia Torres",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=20",
     "cargo": "Community Manager",
     "resumo": "Move comunidades de talentos tech.",
     "localizacao": "Joao Pessoa/PB",
     "area": "Talentos",
-    "habilidadesTecnicas": ["Comunicacao", "Ferramentas SaaS", "Eventos"],
-    "softSkills": ["Colaboracao", "Empatia"],
+    "habilidadesTecnicas": [
+      "Comunicacao",
+      "Ferramentas SaaS",
+      "Eventos"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Empatia"
+    ],
     "experiencias": [
       {
         "empresa": "SquadHub",
@@ -438,25 +790,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Jornalismo", "instituicao": "UFPB", "ano": 2014 }
+      {
+        "curso": "Jornalismo",
+        "instituicao": "UFPB",
+        "ano": 2014
+      }
     ],
     "projetos": [
-      { "titulo": "Festival Jampa Tech", "link": "https://example.com", "descricao": "Evento anual de conexao" }
+      {
+        "titulo": "Festival Jampa Tech",
+        "link": "https://example.com",
+        "descricao": "Evento anual de conexao"
+      }
     ],
-    "certificacoes": ["Community Experience"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
-    "areaInteresses": ["Voluntariado", "Educacao aberta"]
+    "certificacoes": [
+      "Community Experience"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Voluntariado",
+      "Educacao aberta"
+    ]
   },
   {
     "id": 16,
     "nome": "Paulo Andrade",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=21",
     "cargo": "Especialista ESG",
     "resumo": "Integra impacto socioambiental em produtos.",
     "localizacao": "Sorocaba/SP",
     "area": "Sustentabilidade",
-    "habilidadesTecnicas": ["Indicadores ESG", "Relatorios", "Workshops"],
-    "softSkills": ["Visao sistemica", "Negociacao"],
+    "habilidadesTecnicas": [
+      "Indicadores ESG",
+      "Relatorios",
+      "Workshops"
+    ],
+    "softSkills": [
+      "Visao sistemica",
+      "Negociacao"
+    ],
     "experiencias": [
       {
         "empresa": "EcoPrime",
@@ -467,25 +844,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Gestao Ambiental", "instituicao": "SENAC", "ano": 2012 }
+      {
+        "curso": "Gestao Ambiental",
+        "instituicao": "SENAC",
+        "ano": 2012
+      }
     ],
     "projetos": [
-      { "titulo": "Radar Verde 2.0", "link": "https://example.com", "descricao": "Metodologia aberta de indicadores" }
+      {
+        "titulo": "Radar Verde 2.0",
+        "link": "https://example.com",
+        "descricao": "Metodologia aberta de indicadores"
+      }
     ],
-    "certificacoes": ["GRI"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Basico" }],
-    "areaInteresses": ["Clima", "Economia circular"]
+    "certificacoes": [
+      "GRI"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Basico"
+      }
+    ],
+    "areaInteresses": [
+      "Clima",
+      "Economia circular"
+    ]
   },
   {
     "id": 17,
     "nome": "Queila Santana",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=22",
     "cargo": "Full Stack Developer",
     "resumo": "Desenvolve produtos colaborativos multiplataforma.",
     "localizacao": "Natal/RN",
     "area": "Tecnologia",
-    "habilidadesTecnicas": ["React", "Node.js", "MongoDB"],
-    "softSkills": ["Autonomia", "Trabalho em equipe"],
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Trabalho em equipe"
+    ],
     "experiencias": [
       {
         "empresa": "Ocean Labs",
@@ -496,25 +898,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Sistemas de Informacao", "instituicao": "UFRN", "ano": 2018 }
+      {
+        "curso": "Sistemas de Informacao",
+        "instituicao": "UFRN",
+        "ano": 2018
+      }
     ],
     "projetos": [
-      { "titulo": "Conecta RN", "link": "https://example.com", "descricao": "Rede local de talentos" }
+      {
+        "titulo": "Conecta RN",
+        "link": "https://example.com",
+        "descricao": "Rede local de talentos"
+      }
     ],
-    "certificacoes": ["Scrum Foundations"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Intermediario" }],
-    "areaInteresses": ["Impacto social", "Apps low-bandwidth"]
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Impacto social",
+      "Apps low-bandwidth"
+    ]
   },
   {
     "id": 18,
     "nome": "Rafaela Dias",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=23",
     "cargo": "Story Producer",
     "resumo": "Transforma historias de carreira em conteudos humanos.",
     "localizacao": "Curitiba/PR",
     "area": "Conteudo",
-    "habilidadesTecnicas": ["Video", "Roteiro", "Podcast"],
-    "softSkills": ["Narrativa", "Escuta ativa"],
+    "habilidadesTecnicas": [
+      "Video",
+      "Roteiro",
+      "Podcast"
+    ],
+    "softSkills": [
+      "Narrativa",
+      "Escuta ativa"
+    ],
     "experiencias": [
       {
         "empresa": "Estudio Nave",
@@ -525,25 +952,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Cinema", "instituicao": "PUCPR", "ano": 2014 }
+      {
+        "curso": "Cinema",
+        "instituicao": "PUCPR",
+        "ano": 2014
+      }
     ],
     "projetos": [
-      { "titulo": "Podcast Futuro", "link": "https://example.com", "descricao": "Serie sobre profissões emergentes" }
+      {
+        "titulo": "Podcast Futuro",
+        "link": "https://example.com",
+        "descricao": "Serie sobre profissões emergentes"
+      }
     ],
-    "certificacoes": ["Storytelling for Business"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Avancado" }],
-    "areaInteresses": ["Docuseries", "Educacao midiistica"]
+    "certificacoes": [
+      "Storytelling for Business"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Avancado"
+      }
+    ],
+    "areaInteresses": [
+      "Docuseries",
+      "Educacao midiistica"
+    ]
   },
   {
     "id": 19,
     "nome": "Samuel Rocha",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=24",
     "cargo": "Security Engineer",
     "resumo": "Cuida de plataformas seguras com foco em dev experience.",
     "localizacao": "Campinas/SP",
     "area": "Tecnologia",
-    "habilidadesTecnicas": ["OWASP", "Azure", "Python"],
-    "softSkills": ["Detalhismo", "Mentoria"],
+    "habilidadesTecnicas": [
+      "OWASP",
+      "Azure",
+      "Python"
+    ],
+    "softSkills": [
+      "Detalhismo",
+      "Mentoria"
+    ],
     "experiencias": [
       {
         "empresa": "ShieldX",
@@ -554,25 +1006,51 @@
       }
     ],
     "formacao": [
-      { "curso": "Ciencia da Computacao", "instituicao": "PUC Campinas", "ano": 2015 }
+      {
+        "curso": "Ciencia da Computacao",
+        "instituicao": "PUC Campinas",
+        "ano": 2015
+      }
     ],
     "projetos": [
-      { "titulo": "Guia Zero Trust", "link": "https://example.com", "descricao": "Serie de artigos abertos" }
+      {
+        "titulo": "Guia Zero Trust",
+        "link": "https://example.com",
+        "descricao": "Serie de artigos abertos"
+      }
     ],
-    "certificacoes": ["Security+", "AZ-500"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
-    "areaInteresses": ["Comunidades blue team", "Bug bounty"]
+    "certificacoes": [
+      "Security+",
+      "AZ-500"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Comunidades blue team",
+      "Bug bounty"
+    ]
   },
   {
     "id": 20,
     "nome": "Tatiane Barros",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=25",
     "cargo": "Learning Designer",
     "resumo": "Desenha trilhas para desenvolvimento rapido.",
     "localizacao": "Goiania/GO",
     "area": "Educacao",
-    "habilidadesTecnicas": ["Instructional Design", "LMS", "Notion"],
-    "softSkills": ["Criatividade", "Organizacao"],
+    "habilidadesTecnicas": [
+      "Instructional Design",
+      "LMS",
+      "Notion"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organizacao"
+    ],
     "experiencias": [
       {
         "empresa": "Campus Livre",
@@ -583,25 +1061,50 @@
       }
     ],
     "formacao": [
-      { "curso": "Pedagogia", "instituicao": "UFG", "ano": 2016 }
+      {
+        "curso": "Pedagogia",
+        "instituicao": "UFG",
+        "ano": 2016
+      }
     ],
     "projetos": [
-      { "titulo": "Academia Fluxo", "link": "https://example.com", "descricao": "Trilha de requalificacao" }
+      {
+        "titulo": "Academia Fluxo",
+        "link": "https://example.com",
+        "descricao": "Trilha de requalificacao"
+      }
     ],
-    "certificacoes": ["Learning Experience Designer"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Basico" }],
-    "areaInteresses": ["Microlearning", "Carreira em T"]
+    "certificacoes": [
+      "Learning Experience Designer"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Basico"
+      }
+    ],
+    "areaInteresses": [
+      "Microlearning",
+      "Carreira em T"
+    ]
   },
   {
     "id": 21,
     "nome": "Ulysses Pacheco",
-    "foto": "",
+    "foto": "https://i.pravatar.cc/300?img=26",
     "cargo": "Data Product Manager",
     "resumo": "Conecta times tecnicos e negocio em produtos de dados.",
     "localizacao": "Santos/SP",
     "area": "Produto",
-    "habilidadesTecnicas": ["Roadmaps", "SQL", "Analytics"],
-    "softSkills": ["Visao estrategica", "Colaboracao"],
+    "habilidadesTecnicas": [
+      "Roadmaps",
+      "SQL",
+      "Analytics"
+    ],
+    "softSkills": [
+      "Visao estrategica",
+      "Colaboracao"
+    ],
     "experiencias": [
       {
         "empresa": "Delta Insights",
@@ -612,13 +1115,31 @@
       }
     ],
     "formacao": [
-      { "curso": "Engenharia de Producao", "instituicao": "Mackenzie", "ano": 2013 }
+      {
+        "curso": "Engenharia de Producao",
+        "instituicao": "Mackenzie",
+        "ano": 2013
+      }
     ],
     "projetos": [
-      { "titulo": "Atlas Talents", "link": "https://example.com", "descricao": "Camada unica de dados sobre talentos" }
+      {
+        "titulo": "Atlas Talents",
+        "link": "https://example.com",
+        "descricao": "Camada unica de dados sobre talentos"
+      }
     ],
-    "certificacoes": ["Lean Analytics"],
-    "idiomas": [{ "idioma": "Ingles", "nivel": "Fluente" }],
-    "areaInteresses": ["IA aplicada", "Dados abertos"]
+    "certificacoes": [
+      "Lean Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA aplicada",
+      "Dados abertos"
+    ]
   }
 ]
