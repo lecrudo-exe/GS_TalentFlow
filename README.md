@@ -30,6 +30,6 @@ Rede colaborativa que conecta profissionais, competências e propósito para a G
 ## Integrantes
 | Nome | RM |
 | ---  | -- |
-| Integrante 1 | RM563191 |
-| Integrante 2 | RM564226 |
-| Integrante 3 | RM563290 |
+| Pedro Gomes | RM563191 |
+| Eric Koigim | RM564226 |
+| Guilherme reis | RM563290 |
