@@ -115,6 +115,34 @@ export function ModalPerfil({
           </div>
         </div>
 
+        <div className="mt-6 grid gap-4 md:grid-cols-2">
+          <div className="rounded-2xl bg-slate-50 p-4 dark:bg-slate-800/60">
+            <h3 className="text-sm font-semibold text-slate-500 dark:text-slate-200">
+              Certificacoes
+            </h3>
+            <ul className="mt-3 list-disc space-y-1 pl-4 text-sm text-slate-700 dark:text-slate-200">
+              {perfil.certificacoes.map((certificacao) => (
+                <li key={certificacao}>{certificacao}</li>
+              ))}
+            </ul>
+          </div>
+          <div className="rounded-2xl bg-slate-50 p-4 dark:bg-slate-800/60">
+            <h3 className="text-sm font-semibold text-slate-500 dark:text-slate-200">
+              Idiomas
+            </h3>
+            <ul className="mt-3 divide-y divide-slate-100 text-sm text-slate-700 dark:divide-slate-700 dark:text-slate-200">
+              {perfil.idiomas.map((idioma) => (
+                <li key={idioma.idioma} className="flex items-center justify-between py-2 first:pt-0 last:pb-0">
+                  <span>{idioma.idioma}</span>
+                  <span className="text-xs text-slate-500 dark:text-slate-300">
+                    {idioma.nivel}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
         <div className="mt-6 flex flex-wrap gap-3">
           <button
             onClick={() => aoRecomendar(perfil)}
