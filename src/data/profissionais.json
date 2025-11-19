@@ -1141,5 +1141,2267 @@
       "IA aplicada",
       "Dados abertos"
     ]
+  },
+  {
+    "id": 22,
+    "nome": "Sara Pereira",
+    "foto": "https://i.pravatar.cc/300?img=27",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Luiza Lima",
+    "foto": "https://i.pravatar.cc/300?img=28",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Curitiba/PR",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Carla Carvalho",
+    "foto": "https://i.pravatar.cc/300?img=29",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Bruna Mendes",
+    "foto": "https://i.pravatar.cc/300?img=30",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Construtor de produtos digitais com foco em performance.",
+    "localizacao": "Recife/PE",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Construtor de produtos digitais com foco em performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Nexus",
+        "link": "https://example.com",
+        "descricao": "Portal colaborativo de vagas."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Trabalho remoto"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Kayan Xing",
+    "foto": "https://i.pravatar.cc/300?img=31",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em decisoes para diferentes squads.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Metabase"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Organizacao"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Traduz dados em decisoes para diferentes squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Radar Insight",
+        "link": "https://example.com",
+        "descricao": "Painel interativo de indicadores."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "IA etica"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Patricia Rezende",
+    "foto": "https://i.pravatar.cc/300?img=32",
+    "cargo": "Product Owner",
+    "resumo": "Foca em alinhar estrategia e execucao com usuarios.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Miro"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Product Owner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Foca em alinhar estrategia e execucao com usuarios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha Orion",
+        "link": "https://example.com",
+        "descricao": "Framework de descoberta continua."
+      }
+    ],
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "OKRs",
+      "Experiencia do usuario"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Guilherme Cardoso",
+    "foto": "https://i.pravatar.cc/300?img=33",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Helena Bastos",
+    "foto": "https://i.pravatar.cc/300?img=34",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Goiania/GO",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Cicera Silva",
+    "foto": "https://i.pravatar.cc/300?img=35",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Brasilia/DF",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Renata Vieira",
+    "foto": "https://i.pravatar.cc/300?img=36",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Construtor de produtos digitais com foco em performance.",
+    "localizacao": "Sao Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Construtor de produtos digitais com foco em performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Nexus",
+        "link": "https://example.com",
+        "descricao": "Portal colaborativo de vagas."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Trabalho remoto"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Lais Cavalcanti",
+    "foto": "https://i.pravatar.cc/300?img=37",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em decisoes para diferentes squads.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Metabase"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Organizacao"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Traduz dados em decisoes para diferentes squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Radar Insight",
+        "link": "https://example.com",
+        "descricao": "Painel interativo de indicadores."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "IA etica"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Eduarda Gomes",
+    "foto": "https://i.pravatar.cc/300?img=38",
+    "cargo": "Product Owner",
+    "resumo": "Foca em alinhar estrategia e execucao com usuarios.",
+    "localizacao": "Curitiba/PR",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Miro"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Product Owner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Foca em alinhar estrategia e execucao com usuarios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha Orion",
+        "link": "https://example.com",
+        "descricao": "Framework de descoberta continua."
+      }
+    ],
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "OKRs",
+      "Experiencia do usuario"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Fernanda Moreira",
+    "foto": "https://i.pravatar.cc/300?img=39",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Talita Barbosa",
+    "foto": "https://i.pravatar.cc/300?img=40",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Recife/PE",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Lorena Peixoto",
+    "foto": "https://i.pravatar.cc/300?img=41",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Rafaela Andrade",
+    "foto": "https://i.pravatar.cc/300?img=42",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Construtor de produtos digitais com foco em performance.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Construtor de produtos digitais com foco em performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Nexus",
+        "link": "https://example.com",
+        "descricao": "Portal colaborativo de vagas."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Trabalho remoto"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Juliana Reznik",
+    "foto": "https://i.pravatar.cc/300?img=43",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em decisoes para diferentes squads.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Metabase"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Organizacao"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Traduz dados em decisoes para diferentes squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Radar Insight",
+        "link": "https://example.com",
+        "descricao": "Painel interativo de indicadores."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "IA etica"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Maria Monteiro",
+    "foto": "https://i.pravatar.cc/300?img=44",
+    "cargo": "Product Owner",
+    "resumo": "Foca em alinhar estrategia e execucao com usuarios.",
+    "localizacao": "Goiania/GO",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Miro"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Product Owner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Foca em alinhar estrategia e execucao com usuarios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha Orion",
+        "link": "https://example.com",
+        "descricao": "Framework de descoberta continua."
+      }
+    ],
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "OKRs",
+      "Experiencia do usuario"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Sofia Ferraz",
+    "foto": "https://i.pravatar.cc/300?img=45",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Brasilia/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Vitoria Souza",
+    "foto": "https://i.pravatar.cc/300?img=46",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Sao Paulo/SP",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Sara Pereira",
+    "foto": "https://i.pravatar.cc/300?img=47",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Luiza Lima",
+    "foto": "https://i.pravatar.cc/300?img=48",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Construtor de produtos digitais com foco em performance.",
+    "localizacao": "Curitiba/PR",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Construtor de produtos digitais com foco em performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Nexus",
+        "link": "https://example.com",
+        "descricao": "Portal colaborativo de vagas."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Trabalho remoto"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Cassia Carvalho",
+    "foto": "https://i.pravatar.cc/300?img=49",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em decisoes para diferentes squads.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Metabase"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Organizacao"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Traduz dados em decisoes para diferentes squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Radar Insight",
+        "link": "https://example.com",
+        "descricao": "Painel interativo de indicadores."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "IA etica"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Bruno Mendes",
+    "foto": "https://i.pravatar.cc/300?img=50",
+    "cargo": "Product Owner",
+    "resumo": "Foca em alinhar estrategia e execucao com usuarios.",
+    "localizacao": "Recife/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Miro"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Product Owner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Foca em alinhar estrategia e execucao com usuarios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha Orion",
+        "link": "https://example.com",
+        "descricao": "Framework de descoberta continua."
+      }
+    ],
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "OKRs",
+      "Experiencia do usuario"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Yuri Santos",
+    "foto": "https://i.pravatar.cc/300?img=51",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Patrick Rezende",
+    "foto": "https://i.pravatar.cc/300?img=52",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Guilherme Cardoso",
+    "foto": "https://i.pravatar.cc/300?img=53",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Salvador/BA",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Heleno Bastos",
+    "foto": "https://i.pravatar.cc/300?img=54",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Construtor de produtos digitais com foco em performance.",
+    "localizacao": "Goiania/GO",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Construtor de produtos digitais com foco em performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Nexus",
+        "link": "https://example.com",
+        "descricao": "Portal colaborativo de vagas."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Trabalho remoto"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Otavio Silva",
+    "foto": "https://i.pravatar.cc/300?img=55",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em decisoes para diferentes squads.",
+    "localizacao": "Brasilia/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Metabase"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Organizacao"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Traduz dados em decisoes para diferentes squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Radar Insight",
+        "link": "https://example.com",
+        "descricao": "Painel interativo de indicadores."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "IA etica"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Renato Vieira",
+    "foto": "https://i.pravatar.cc/300?img=56",
+    "cargo": "Product Owner",
+    "resumo": "Foca em alinhar estrategia e execucao com usuarios.",
+    "localizacao": "Sao Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Miro"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Product Owner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Foca em alinhar estrategia e execucao com usuarios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha Orion",
+        "link": "https://example.com",
+        "descricao": "Framework de descoberta continua."
+      }
+    ],
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "OKRs",
+      "Experiencia do usuario"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Lais Cavalcanti",
+    "foto": "https://i.pravatar.cc/300?img=57",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Eduardo Gomes",
+    "foto": "https://i.pravatar.cc/300?img=58",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Curitiba/PR",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Fernando Moreira",
+    "foto": "https://i.pravatar.cc/300?img=59",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Tiago Barbosa",
+    "foto": "https://i.pravatar.cc/300?img=60",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Construtor de produtos digitais com foco em performance.",
+    "localizacao": "Recife/PE",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboracao",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Construtor de produtos digitais com foco em performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Nexus",
+        "link": "https://example.com",
+        "descricao": "Portal colaborativo de vagas."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundations"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dev communities",
+      "Trabalho remoto"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Lorenzo Peixoto",
+    "foto": "https://i.pravatar.cc/300?img=61",
+    "cargo": "Analista de Dados",
+    "resumo": "Traduz dados em decisoes para diferentes squads.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Metabase"
+    ],
+    "softSkills": [
+      "Pensamento critico",
+      "Organizacao"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Traduz dados em decisoes para diferentes squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Radar Insight",
+        "link": "https://example.com",
+        "descricao": "Painel interativo de indicadores."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Dados abertos",
+      "IA etica"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Socrates Andrade",
+    "foto": "https://i.pravatar.cc/300?img=62",
+    "cargo": "Product Owner",
+    "resumo": "Foca em alinhar estrategia e execucao com usuarios.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Discovery",
+      "Figma",
+      "Miro"
+    ],
+    "softSkills": [
+      "Comunicacao",
+      "Visao sistemica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Product Owner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Foca em alinhar estrategia e execucao com usuarios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha Orion",
+        "link": "https://example.com",
+        "descricao": "Framework de descoberta continua."
+      }
+    ],
+    "certificacoes": [
+      "CSPO"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "OKRs",
+      "Experiencia do usuario"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Juliano Rezende",
+    "foto": "https://i.pravatar.cc/300?img=63",
+    "cargo": "UX Designer",
+    "resumo": "Cria experiencias acessiveis e consistentes.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Design Systems",
+      "Pesquisa"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Narrativa"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "UX Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Cria experiencias acessiveis e consistentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Kit Horizonte",
+        "link": "https://example.com",
+        "descricao": "Sistema visual colaborativo."
+      }
+    ],
+    "certificacoes": [
+      "UX Strategy"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Acessibilidade",
+      "Design social"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Miguel Monteiro",
+    "foto": "https://i.pravatar.cc/300?img=64",
+    "cargo": "People Partner",
+    "resumo": "Conecta talentos e liderancas para jornadas humanas.",
+    "localizacao": "Goiania/GO",
+    "area": "Pessoas",
+    "habilidadesTecnicas": [
+      "People Analytics",
+      "Facilitacao",
+      "Onboarding"
+    ],
+    "softSkills": [
+      "Escuta ativa",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "People Partner",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Conecta talentos e liderancas para jornadas humanas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Cuidar",
+        "link": "https://example.com",
+        "descricao": "Roteiros de onboarding remoto."
+      }
+    ],
+    "certificacoes": [
+      "People Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Bem-estar",
+      "Diversidade"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Sorin Ferro",
+    "foto": "https://i.pravatar.cc/300?img=65",
+    "cargo": "Tech Recruiter",
+    "resumo": "Mapa talentos para desafios reais em squads.",
+    "localizacao": "Brasilia/DF",
+    "area": "Talentos",
+    "habilidadesTecnicas": [
+      "Hunting",
+      "LinkedIn",
+      "Entrevistas"
+    ],
+    "softSkills": [
+      "Negociacao",
+      "Relacionamento"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Coletivo Nexus",
+        "cargo": "Tech Recruiter",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Mapa talentos para desafios reais em squads."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Graduacao Interdisciplinar",
+        "instituicao": "Universidade Futuro",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Conecta",
+        "link": "https://example.com",
+        "descricao": "Pipeline colaborativo de talentos."
+      }
+    ],
+    "certificacoes": [
+      "LinkedIn Recruiter"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Ingles",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediario"
+      }
+    ],
+    "areaInteresses": [
+      "Trabalho distribuido",
+      "Voluntariado"
+    ]
   }
 ]
