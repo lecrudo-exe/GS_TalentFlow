@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { PerfilProfissional } from "@/types/perfil";
 
 type ModalPerfilProps = {
@@ -17,16 +18,25 @@ export function ModalPerfil({
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/70 px-4 py-10">
       <div className="w-full max-w-3xl rounded-3xl bg-white p-6 shadow-2xl dark:bg-slate-900">
         <div className="flex flex-wrap items-start justify-between gap-4">
-          <div>
-            <p className="text-xs uppercase tracking-wide text-slate-500 dark:text-slate-400">
-              {perfil.localizacao}
-            </p>
-            <h2 className="text-2xl font-bold text-slate-900 dark:text-white">
-              {perfil.nome}
-            </h2>
-            <p className="text-sm text-slate-600 dark:text-slate-300">
-              {perfil.cargo}
-            </p>
+          <div className="flex items-center gap-4">
+            <Image
+              src={perfil.foto || "/vercel.svg"}
+              alt={`Foto de ${perfil.nome}`}
+              width={80}
+              height={80}
+              className="h-20 w-20 rounded-2xl object-cover"
+            />
+            <div>
+              <p className="text-xs uppercase tracking-wide text-slate-500 dark:text-slate-400">
+                {perfil.localizacao}
+              </p>
+              <h2 className="text-2xl font-bold text-slate-900 dark:text-white">
+                {perfil.nome}
+              </h2>
+              <p className="text-sm text-slate-600 dark:text-slate-300">
+                {perfil.cargo}
+              </p>
+            </div>
           </div>
           <button
             onClick={aoFechar}

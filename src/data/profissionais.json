@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nome": "Ana Ribeiro",
+    "nome": "carlos Ribeiro",
     "foto": "https://i.pravatar.cc/300?img=6",
     "cargo": "Estrategista de Produto",
     "resumo": "Atua conectando squads ao impacto do negocio.",
@@ -115,7 +115,7 @@
   },
   {
     "id": 3,
-    "nome": "Camila Furtado",
+    "nome": "Camilo Furtado",
     "foto": "https://i.pravatar.cc/300?img=8",
     "cargo": "People Partner",
     "resumo": "Gosta de criar experiencias de aprendizagem inclusivas.",
@@ -169,7 +169,7 @@
   },
   {
     "id": 4,
-    "nome": "Diego Martins",
+    "nome": "Diega   Martins",
     "foto": "https://i.pravatar.cc/300?img=9",
     "cargo": "Cientista de Dados",
     "resumo": "Ajuda empresas a usar IA de forma responsavel.",
@@ -331,7 +331,7 @@
   },
   {
     "id": 7,
-    "nome": "Gabriela Moura",
+    "nome": "Gabriel Moura",
     "foto": "https://i.pravatar.cc/300?img=12",
     "cargo": "Analista de Dados",
     "resumo": "Traduz dados em insights rapidos para squads.",
@@ -439,7 +439,7 @@
   },
   {
     "id": 9,
-    "nome": "Isabela Fontes",
+    "nome": "Pietro Fontes",
     "foto": "https://i.pravatar.cc/300?img=14",
     "cargo": "UI Designer",
     "resumo": "Cria sistemas visuais acessiveis.",
@@ -657,7 +657,7 @@
   },
   {
     "id": 13,
-    "nome": "Mariana Leites",
+    "nome": "Jose Leites",
     "foto": "https://i.pravatar.cc/300?img=18",
     "cargo": "Engenheira DevOps",
     "resumo": "Foca em plataformas seguras e automacoes simples.",
@@ -711,7 +711,7 @@
   },
   {
     "id": 14,
-    "nome": "Nicolas Prado",
+    "nome": "Nicole Prado",
     "foto": "https://i.pravatar.cc/300?img=19",
     "cargo": "Cientista Social Tech",
     "resumo": "Investiga impacto da tecnologia nas cidades.",
@@ -819,7 +819,7 @@
   },
   {
     "id": 16,
-    "nome": "Paulo Andrade",
+    "nome": "Rafaela Andrade",
     "foto": "https://i.pravatar.cc/300?img=21",
     "cargo": "Especialista ESG",
     "resumo": "Integra impacto socioambiental em produtos.",
@@ -873,7 +873,7 @@
   },
   {
     "id": 17,
-    "nome": "Queila Santana",
+    "nome": "Keila Santana",
     "foto": "https://i.pravatar.cc/300?img=22",
     "cargo": "Full Stack Developer",
     "resumo": "Desenvolve produtos colaborativos multiplataforma.",
@@ -981,7 +981,7 @@
   },
   {
     "id": 19,
-    "nome": "Samuel Rocha",
+    "nome": "Julia Rocha",
     "foto": "https://i.pravatar.cc/300?img=24",
     "cargo": "Security Engineer",
     "resumo": "Cuida de plataformas seguras com foco em dev experience.",
