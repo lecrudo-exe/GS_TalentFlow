@@ -71,6 +71,27 @@ export function ModalPerfil({
           </div>
           <div className="rounded-2xl bg-slate-50 p-4 dark:bg-slate-800/60">
             <h3 className="text-sm font-semibold text-slate-500 dark:text-slate-200">
+              Projetos em destaque
+            </h3>
+            <ul className="mt-3 space-y-3 text-sm text-slate-700 dark:text-slate-200">
+              {perfil.projetos.map((projeto) => (
+                <li key={projeto.titulo}>
+                  <p className="font-semibold">{projeto.titulo}</p>
+                  <p className="text-xs text-slate-500">{projeto.descricao}</p>
+                  <a
+                    href={projeto.link}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="text-xs font-semibold text-primario hover:underline"
+                  >
+                    Ver projeto
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div className="rounded-2xl bg-slate-50 p-4 dark:bg-slate-800/60">
+            <h3 className="text-sm font-semibold text-slate-500 dark:text-slate-200">
               Soft skills e interesses
             </h3>
             <div className="mt-3 flex flex-wrap gap-2">
