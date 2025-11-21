@@ -45,7 +45,7 @@ A aplicação ficará disponível em `http://localhost:3000`.
 - `public/` : assets públicos
 - `next.config.ts`, `tailwind.config.js`, `tsconfig.json` : configuração do projeto
 
-## Como contribuir (rápido)
+## Como contribuir
 1. Crie uma branch a partir de `main` (ex.: `feature/nome-da-funcao`).
 2. Abra um PR descrevendo a mudança.
 3. Siga o padrão de código existente e rode `npm run lint` antes de enviar.
@@ -54,7 +54,7 @@ A aplicação ficará disponível em `http://localhost:3000`.
 O projeto é compatível para deploy em Vercel (Next.js). Para publicar:
 
 1. Conecte o repositório ao Vercel.
-2. Configure variáveis de ambiente se necessário (nenhuma exigida neste protótipo).
+2. Configure variáveis de ambiente se necessário.
 
 ## Links
 - Repositório: `https://github.com/lecrudo-exe/GS_TalentFlow.git`
